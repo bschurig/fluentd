@@ -1,2 +1,2 @@
 # fluentd
-Custom fluentd image
+ Fluentd image for use with Elasticsearch
